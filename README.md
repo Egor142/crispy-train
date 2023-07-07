@@ -1,1 +1,1 @@
-# crispy-train
+# rsschool-cv
